@@ -20,25 +20,26 @@ A visual-card consists of varoius elements. Such as
   
 #BF3EE5  
   
-![BF3EE5.png](/playground/tmp/%23BF3EE5.png)  
+![BF3EE5.png](/cards/%23BF3EE5.png)  
   
 #DB466E  
   
-![DB466E.png](/playground/tmp/%23DB466E.png)  
+![DB466E.png](/cards/%23DB466E.png)  
   
 #F9C358  
   
-![F9C358.png](/playground/tmp/%23F9C358.png)  
+![F9C358.png](/cards/%23F9C358.png)  
   
 #37ADF3  
   
-![37ADF3.png](/playground/tmp/%2337ADF3.png)  
+![37ADF3.png](/cards/%2337ADF3.png)  
   
 #8075C8  
   
-![8075C8.png](/playground/tmp/%238075C8.png)  
+![8075C8.png](/cards/%238075C8.png)  
   
 #5E5C5C  
-![5E5C5C.png](/playground/tmp/%235E5C5C.png)  
+  
+![5E5C5C.png](/cards/%235E5C5C.png)  
   
   
