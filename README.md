@@ -6,7 +6,7 @@
 
 ## License
 
-Release Under [MIT License](#)
+Release Under [MIT License](https://github.com/sreekesari-vangeepuram/visual-card-generator/blob/main/LICENSE)
 
 ## About
 
